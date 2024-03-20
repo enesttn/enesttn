@@ -33,7 +33,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="https://www.linkedin.com/in/yusuf-enes-t%C3%BCt%C3%BCn-a9132220a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
