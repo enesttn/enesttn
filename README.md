@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I graduated from Uşak University Computer Programming. My goal is to advance in my career as a .NET & React Full Stack developer.</p>
+<p align="left">I graduated from Usak University Computer Programming. My goal is to advance in my career as a .NET & React Full Stack developer.</p>
 
 ###
 
